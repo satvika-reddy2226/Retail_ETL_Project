@@ -1,0 +1,4 @@
+timestamp,store_id,customer_count,temp_celsius,status,is_high_traffic
+2026-04-30 18:01:41,19,60,18.87,Online,False
+2026-04-30 18:01:54,29,15,19.37,Online,False
+2026-04-30 18:02:00,37,23,15.49,Online,False
