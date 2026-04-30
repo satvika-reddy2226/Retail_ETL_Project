@@ -1,0 +1,10 @@
+# Ignore database files
+*.db
+
+# Ignore data files and logs
+*.csv
+sensor_log.csv
+cleaned_sensor_data.csv
+
+# Ignore Python cache
+__pycache__/
